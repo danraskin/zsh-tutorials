@@ -1,3 +1,3 @@
 # zsh-tutorials
 
-Familiarizing myself with Zsh beyond basic command line operations. No finished projects here, just documentation of my exploration.
+Familiarizing myself with Zsh beyond basic command line operations. No finished projects here, just documentation of my exploration, with an emphasis on executable scripts.
